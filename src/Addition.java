@@ -1,4 +1,4 @@
-public class Harjutus6 {
+public class Addition {
     public static void main(String[] args) {
         int x = 5;
         int y = 4;
